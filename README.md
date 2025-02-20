@@ -1,4 +1,14 @@
-# Hello-world
+## Table of contents
+
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [FILES USED](#files-used)
+- [ADDITIONAL DOCUMENTATION](#additional-documentation)
+
+## Project Title
+*Hello World Sample* 
+
 ## Description
 This is a simple Hello-World repository created to practice Markdown syntax and GitHub workflows.
 ### How to Run Program
