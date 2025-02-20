@@ -11,7 +11,8 @@
 
 ## Description
 This is a simple Hello-World repository created to practice Markdown syntax and GitHub workflows.
-### How to Run Program
+
+## How to Run Program
  Clone the repository using the following command:
 ```bash
    git clone https://github.com/brennan-coutinho/Hello-World.git
@@ -24,5 +25,5 @@ The following files are included in the repository:
 ## Additional Documentation
 No additional documentation at this time.
 
-### Key Changes:
+
 
